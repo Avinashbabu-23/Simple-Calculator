@@ -15,8 +15,7 @@ This is a simple calculator which performs addition, subtraction, multiplication
 4. Change the current working directory to the location where you want the cloned directory to be made.
 5. Type `git clone`, and then paste the URL you copied in Step 2.
 ```
-https://avinashbabu-23.github.io/Simple-Calculator/Calculator.html
-
+git clone git@github.com:Avinashbabu-23/Simple-Calculator.git
  
 ```
 6. Press Enter. Your local clone will be created.
