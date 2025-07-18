@@ -4,7 +4,8 @@
 
 This is a simple calculator which performs addition, subtraction, multiplication and division.
 
-![Image of Calulator](https://i.imgur.com/YvBgb9s.png)
+<img width="669" height="629" alt="image" src="https://github.com/user-attachments/assets/fb8662a1-6a5d-4e51-9a6b-293dad670141" />
+
 
 ## Getting Started
 
@@ -21,7 +22,7 @@ git clone git@github.com:aurobindodebnath/Calculator-in-JS.git
 
 ## Acknowledgment 
 
-Created by Aurobindo Debnath in Dec 2016
+Created by Marri Avinash Babu in Jul 2025
 
 
 
